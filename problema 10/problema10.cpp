@@ -81,22 +81,6 @@ int main(){
 		
 	}
 	
-	/*
-	if(numero_mes == 1){
-		cout<<"ENERO CON IF";
-	}else if(numero_mes == 2){
-		cout<<"FEBRERO CON IF";
-	}else if(numero_mes == 3){
-		cout<<"MARZO CON IF";
-	}else{
-		cout<<"MES SELECCIONADO NO VALIDO";
-	}
-	
-	
-	if(numero_mes == 2){
-		cout<<"FEBRERO CON IF";
-	}
-	*/
 	
 	cout<<endl;
 	
